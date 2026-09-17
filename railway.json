@@ -1,0 +1,8 @@
+{
+  "build": {
+    "command": "python3 c2_server.py"
+  },
+  "env": {
+    "PORT": {"fromValue": "5000"}
+  }
+}
